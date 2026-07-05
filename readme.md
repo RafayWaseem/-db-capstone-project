@@ -1,0 +1,1 @@
+Read capstone-project-pdf for understanding the project
